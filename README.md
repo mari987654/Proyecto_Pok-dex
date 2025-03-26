@@ -1,3 +1,45 @@
+# Proyecto_Pok-dex
+
+Una aplicación web interactiva de Pokédex construida con React, TypeScript y GraphQL que le permite explorar y descubrir información sobre diversos pokemones.
+
+# Caracteristicas
+-Listado completo de Pokémon con paginación.
+-Búsqueda avanzada por nombre y tipo.
+-Detalles completos de cada Pokémon como Estadísticas, tipos, altura y peso.
+-Diseño respondive 
+-Interfaz atractiva con fondos temáticos.
+-Sistema de carga con animación de Pokémon.
+
+# Tecnologias usadas
+
+-FRONTEND: React, TypeScript, Vite.
+-ESTADO Y API: Apollo y GraphQL.
+-ESTILO: css
+
+# Instalación
+
+-Clonar el repositorio de GitHub: git clone https://github.com/tu-usuario/pokemon-app.git
+- En la terminal instalar las dependencias: npm install
+
+# Uso
+
+En la terminal
+-Primero escribir cd pokemon-app
+-Segundo escribir npm run dev
+
+
+# Autores
+Los cosmicos
+
+
+
+
+
+
+
+
+
+
 
 # React + TypeScript + Vite
 
