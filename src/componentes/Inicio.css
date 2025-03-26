@@ -1,0 +1,57 @@
+
+.inicio-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    background-image: url('/img/pi.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    padding-top: 5vh;
+}
+
+.inicio-content {
+    text-align: center;
+    background-color: rgba(243, 191, 187, 0.9);
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin-top: 5vh;
+    transform: translateY(-20%);
+}
+
+.inicio-content h1 {
+    color: #f8fcf1;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.inicio-content p {
+    color: #ffffff;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.empezar-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: #f82b2b;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+}
+
+.empezar-btn:hover {
+    background-color: #f76a28;
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(227, 53, 13, 0.4);
+}

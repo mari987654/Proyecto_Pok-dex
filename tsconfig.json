@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "esModuleInterop": true, // Permite importaciones comunes como `import React from 'react'`
+    "moduleResolution": "node",
+    "target": "ES6",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
